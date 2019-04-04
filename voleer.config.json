@@ -1,0 +1,9 @@
+{
+  "type": "windows-powershell",
+  "name": "example-package",
+  "displayName": "Example Package",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "bittitan",
+  "icon": "images/icon.png"
+}
