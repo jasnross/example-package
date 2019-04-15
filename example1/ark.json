@@ -1,6 +1,6 @@
 {
   "apiVersion": "1.0.0",
-  "type": "windows-powershell",
+  "type": "powershell",
   "name": "example-package",
   "displayName": "Example Package",
   "description": "",
