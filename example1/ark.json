@@ -1,9 +1,16 @@
 {
+  "apiVersion": "1.0.0",
   "type": "windows-powershell",
   "name": "example-package",
   "displayName": "Example Package",
   "description": "",
   "version": "0.0.1",
   "publisher": "bittitan",
-  "icon": "images/icon.png"
+  "icon": "icon.png",
+  "license": "UNLICENSED",
+  "keywords": [],
+  "powershell": {
+    "engine": "5.1",
+    "install": "Install.ps1"
+  }
 }
